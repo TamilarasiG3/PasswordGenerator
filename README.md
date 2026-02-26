@@ -1,1 +1,99 @@
 # Password Generator
+A simple and secure Password Generator built using HTML, CSS, and JavaScript.
+This application generates strong random passwords with numbers, symbols, uppercase, and lowercase letters.
+
+🚀 Features
+
+✅ Generate secure random passwords
+
+✅ 12-character strong password
+
+✅ Includes:
+
+Uppercase letters (A–Z)
+
+Lowercase letters (a–z)
+
+Numbers (0–9)
+
+Special characters (!@#$%^&* etc.)
+
+✅ One-click password generation
+
+✅ Clean and responsive UI
+
+✅ Copy to clipboard feature (optional if you added)
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript (Vanilla JS)
+
+📂 Project Structure
+password-generator/
+│
+├── index.html
+├── style.css
+└── script.js
+📸 How It Works
+
+Click the Generate Password button.
+
+JavaScript creates a random password using:
+
+Math.random()
+
+The password is displayed using:
+
+element.innerHTML
+
+User can copy and use the password securely.
+
+💡 Example Output
+aB9@kL2#xP7!
+🔒 Why Strong Passwords Matter
+
+Strong passwords help protect against:
+
+Brute-force attacks
+
+Dictionary attacks
+
+Unauthorized access
+
+This generator ensures high randomness and security.
+
+🌍 Live Demo
+
+👉 Add your deployed link here (Vercel / Netlify)
+
+Example:
+
+https://yourproject.vercel.app
+📦 Installation
+
+Clone the repository:
+
+git clone https://github.com/yourusername/password-generator.git
+
+Open index.html in your browser.
+
+🎯 Future Improvements
+
+Password length selector
+
+Strength indicator meter
+
+Toggle character types (symbols, numbers, etc.)
+
+Dark mode UI
+
+Auto-copy feature
+
+👩‍💻 Author
+
+Tamilarasi G
+Aspiring Full Stack Developer 🚀
