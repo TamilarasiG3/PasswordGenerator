@@ -22,8 +22,6 @@ Special characters (!@#$%^&* etc.)
 
 ✅ Clean and responsive UI
 
-✅ Copy to clipboard feature (optional if you added)
-
 ## 🛠️ Technologies Used
 
 HTML5
