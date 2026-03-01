@@ -36,19 +36,6 @@ password-generator/
 ├── index.html
 ├── style.css
 └── script.js
-## 📸 How It Works
-
-Click the Generate Password button.
-
-JavaScript creates a random password using:
-
-Math.random()
-
-The password is displayed using:
-
-element.innerHTML
-
-User can copy and use the password securely.
 
 ## 💡 Example Output
 aB9@kL2#xP7:
