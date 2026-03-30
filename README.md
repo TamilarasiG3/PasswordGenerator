@@ -70,5 +70,5 @@ Auto-copy feature
 
 ## 👩‍💻 Author
 
-# Tamilarasi G
+## Tamilarasi G
 Aspiring Full Stack Developer 🚀
